@@ -1,8 +1,4 @@
 # Create-Flex 프로젝트 종합 보고서
-
-> 작성일: 2026-02-25
-> 대상 레포지토리: `create-flex-frontend` / `create-flex-backend`
-
 ---
 
 ## 1. 프로젝트 개요
