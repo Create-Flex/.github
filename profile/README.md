@@ -48,8 +48,7 @@
 
 ## 3. 시스템 아키텍처
 
-![파이널_프로젝트_시스템_아키텍처_최종](https://github.com/user-attachments/assets/fd0b0143-b845-43f1-b92f-85d5605c18f6)
-
+<img width="1122" height="561" alt="파이널 프로젝트 시스템 아키텍처" src="https://github.com/user-attachments/assets/68736eab-3e7f-4a76-b213-f72b3d4f917c" />
 
 ### 인증 흐름
 
