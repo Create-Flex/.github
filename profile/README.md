@@ -48,21 +48,8 @@
 
 ## 3. 시스템 아키텍처
 
-```
-[ Browser / React SPA ]
-        │
-        ├── REST API (Axios) ──────────────► [ Spring Boot API Server ]
-        │                                           │
-        ├── STOMP WebSocket ──────────────►  WebSocketConfig (/ws-stomp)
-        │   (칸반 보드 실시간 동기화)                │  SimpleBroker (/sub)
-        │                                           │
-        └── SSE ──────────────────────────►  SseEmitters
-            (실시간 알림)                            │
-                                                    ├── MySQL (JPA)
-                                                    ├── Redis (캐시/채팅)
-                                                    ├── AWS S3 (파일)
-                                                    └── OpenAI (AI 분석)
-```
+![파이널_프로젝트_시스템_아키텍처_최종](https://github.com/user-attachments/assets/fd0b0143-b845-43f1-b92f-85d5605c18f6)
+
 
 ### 인증 흐름
 
