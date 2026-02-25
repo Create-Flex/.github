@@ -75,7 +75,7 @@
 | `attendance` | 출퇴근 기록 관리 | Attendance |
 | `health` | 건강검진 결과, 크리에이터 정신건강 관리 | Health, CreatorMentalHealth, CheckupSummanary |
 | `schedule` | 일정 캘린더 (크리에이터/직원) | Schedule, ScheduleVisitor |
-| `chat` | 채팅방 생성·참여, 메시지 (Redis) | ChatRoom, ChatRoomMember, ChatMessage |
+| `chat` | 채팅방 생성·참여, 메시지 | ChatRoom, ChatRoomMember, ChatMessage |
 | `notification` | SSE 실시간 알림, 읽음 처리 | Notification |
 | `advertisement` | 광고 캠페인 제안 및 승인 | CreatorPromotion |
 | `contract` | 크리에이터 계약 관리 | CreatorContract |
